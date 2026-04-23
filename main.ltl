@@ -1,0 +1,15 @@
+// ltl-hmm/main.ltl
+//
+// Hidden Markov Model — forward / Viterbi / Baum-Welch.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-hmm v0.1.0")
+    io::println("Hidden Markov Model — forward / Viterbi / Baum-Welch.")
+    0
+}
